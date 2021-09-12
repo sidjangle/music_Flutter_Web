@@ -1,4 +1,8 @@
-# music_web_ui
+# Music Website Flutter
+<h1>Watch Full Video https://youtu.be/--ttv8UQzXM</h1>
+
+
+<img src="screenshot/screen.png" width="400px">
 
 A new Flutter project.
 
